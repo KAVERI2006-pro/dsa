@@ -11,6 +11,7 @@ Data Structures and Algorithms practice using LeetCode, coding problems, and int
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KAVERI2006-pro/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0705-design-hashset](https://github.com/KAVERI2006-pro/dsa/tree/master/0705-design-hashset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Data Structures and Algorithms practice using LeetCode, coding problems, and int
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/KAVERI2006-pro/dsa/tree/master/0705-design-hashset) |
 | [1603-design-parking-system](https://github.com/KAVERI2006-pro/dsa/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -31,4 +33,16 @@ Data Structures and Algorithms practice using LeetCode, coding problems, and int
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/KAVERI2006-pro/dsa/tree/master/1603-design-parking-system) |
+## Hash Table
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/KAVERI2006-pro/dsa/tree/master/0705-design-hashset) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/KAVERI2006-pro/dsa/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/KAVERI2006-pro/dsa/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
